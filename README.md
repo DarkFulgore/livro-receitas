@@ -3,5 +3,5 @@
 Olá! Bem vindo ao meu livro de receitas :baby:
 
 - Strogonoff de Frango
-- Pavê2
-
+- Pavê1
+- Bolo de Cenoura
